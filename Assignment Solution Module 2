@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment Solution for Module 2</title>
 
+/********** Base Styles **********/
+
+P {
+	background-color: grey;
+	border: 1px black;
+}
+
+p1 {
+ If you like GeeksforGeeks and would like to contribute, you can also write an article using contribute.geeksforgeeks.org or mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+
+Please Improve this article if you find anything incorrect by clicking on the "Improve Article" button below.
+	
+}
+</head>
+<body>
+<h1>Our Menu</h1>
+   <p id="p1"> </p>
+   <p id="p2"> </p>
+   <p id="p3"> </p>
+</body>
+</html>
